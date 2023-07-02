@@ -1,0 +1,21 @@
+{
+  "": "150Year(s) (Male",
+  "Age: ": "50 years 10 months 16 days",
+  "Lab Reference NO: ": "52",
+  "Sample Details :BI0-": "060623129 (Blood) / Bio-Chemistry Sub Centre Report Date: 06/06/2023 06:13 PM",
+  "HBAIC ": "52 % -6.50 Verification Comment",
+  "SERUM CALCIUM ": "7.2 mgldL 9-11 mg/dL Verification Comment",
+  "Sample Received Date: ": "06/06/2023 05:48 PM",
+  "Sample Collection Date: ": "06/06/2023 05:47 PM",
+  "SERUM POTASSIUM ": "45 mEg/L 35-5.5 mEq/L Verification Comment",
+  "Government of Tripura ,Agartala, Tripura West ,": "799006",
+  "SERUM SODIUM ": "142 mEq/L 135- 145 mEg/L",
+  "UHID: ": "201",
+  "SERUM UREA ": "35 mg/dL 15 - 40 mg/dL",
+  "SERUM CREATININE ": "2.04 mg/dL 06- 1.5 mg/dL",
+  "SERUM URIC ACID ": "6.7 mgldL 3-7 mg/dL 0Year(s) - Verification Comment",
+  "Report Upload Date: ": "06/06/2023 06:13 PM",
+  "Order Date: ": "06/06/2023",
+  "OYear(s) - ": "150Year(s",
+  "Reg Date: ": "21/07/2022 11:59 AM"
+}

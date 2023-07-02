@@ -1,0 +1,69 @@
+=/
+
+gala Government Medical College & Gobind Ballav Pant Hospital
+Government of Tripura ,Agartala, Tripura West ,799006
+LABORATORY OBSERVATION REPORT
+
+ 
+
+UHID: 201
+
+ 
+
+010049138
+
+Patient Name:  Mr. TEST TEST
+
+Sex: Male
+Order By: Dr. IPD Doctor Incharge
+Unit Name: Unit I
+
+Sample Collection Date: 06/06/2023 05:47 PM
+
+Lab Name: BIOCHEMISTRY
+Department: Medicine
+
+Reg Date: 21/07/2022 11:59 AM
+Ward Name : Male Medicine
+
+ 
+
+Age: 50 years 10 months 16 days
+Order Date: 06/06/2023
+
+Unit In-charge: Dr. Arunaba Dasgupta
+Sample Received Date: 06/06/2023 05:48 PM
+Lab Reference NO: 52
+
+Report Upload Date: 06/06/2023 06:13 PM
+
+ 
+
+Sample Details :BI0-060623129 (Blood) / Bio-Chemistry Sub Centre Report Date: 06/06/2023 06:13 PM
+
+ 
+
+ 
+
+ 
+
+Test Name Result Reference Range Comment
+HBAIC 52 % -6.50 Verification Comment
+KIDNEY FUNCTION TEST
+SERUM UREA 35 mg/dL 15 - 40 mg/dL
+SERUM CREATININE 2.04 mg/dL 06- 1.5 mg/dL
+OYear(s) - 150Year(s)
+(Male)
+SERUM URIC ACID 6.7 mgldL 3-7 mg/dL 0Year(s) - Verification Comment
+150Year(s) (Male)
+ELECTROLYTE PROFILE
+SERUM SODIUM 142 mEq/L 135- 145 mEg/L
+SERUM POTASSIUM 45 mEg/L 35-5.5 mEq/L Verification Comment
+SERUM CALCIUM 7.2 mgldL 9-11 mg/dL Verification Comment
+Entered By Verified By
+
+(Mr.HOSPITAL ADMIN)
+
+# This is computer generated report, hence no signature is required.
+
+(Mr.HOSPITAL ADMIN)
