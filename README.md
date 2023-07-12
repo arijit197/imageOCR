@@ -1,4 +1,4 @@
-# imageOCR
+# ImageOCR microservice
 Image to text and image to JSon extraction
 
 ## Ehospital LIS Image OCR API
