@@ -1,5 +1,5 @@
 # imageOCR
-image to text and image to JSon extraction
+Image to text and image to JSon extraction
 
 ## Ehospital LIS Image OCR API
 The objective was to create a microservice to extract text data from a lab report file in such a format that data becomes easily accessible to the doctors in the hospital. 
@@ -40,15 +40,22 @@ Our API allows users to effortlessly extract text from image files using OCR. It
 
 #### Libraries and Tools Used
 The following libraries and tools are used in this API:
+
 ● Language : Java (JDK 17)
+
 ● Framework: SpringBoot (3.0.8)
+
 ● IDE: IntelliJ
 
 #### Dependencies
+
 Maven Dependencies used:
+
 ● tess4j: The library provides optical character recognition (OCR) support
 for:TIFF, JPEG, GIF, PNG, and BM(provided in this project)
+
 ● org.json: JSON is a light-weight, language independent, data interchange format
+
 ● spring-boot-starter-web: Starter for building web, including RESTful,
 applications using Spring MVC. Uses Tomcat as the default embedded container
 
