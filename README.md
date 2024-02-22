@@ -1,7 +1,7 @@
 # ImageOCR microservice
 Image to text and image to JSon extraction
 
-### Certificate Link : https://drive.google.com/file/d/1mfJgOaNgbpjLB9HfanHy3VKbO0p4AAlF/view
+##### Certificate Link : https://drive.google.com/file/d/1mfJgOaNgbpjLB9HfanHy3VKbO0p4AAlF/view
 
 ## Ehospital LIS Image OCR API
 The objective was to create a microservice to extract text data from a lab report file in such a format that data becomes easily accessible to the doctors in the hospital. 
